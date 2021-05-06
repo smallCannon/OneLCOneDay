@@ -1,10 +1,8 @@
-https://leetcode-cn.com/u/jun-shang-2/
+## 万人等君上
 
 
 
-#### [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
-
-
+https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/comments/155270
 
 
 
@@ -82,6 +80,16 @@ class Solution {
 
 
 
+
+
+
+## woshishabi
+
+https://leetcode-cn.com/problems/generate-parentheses/comments/729488
+
+
+
+![image-20210506211756909](https://i.loli.net/2021/05/06/wBhtLTIKoeJ9fXd.png)
 
 
 
