@@ -93,6 +93,28 @@ https://leetcode-cn.com/problems/generate-parentheses/comments/729488
 
 
 
+
+
+## 官方题解的代码复制粘贴还会报错？
+
+
+
+为啥我直接把官方题解的代码复制粘贴还会报错？
+
+
+
+https://leetcode-cn.com/problems/merge-k-sorted-lists/comments/747751
+
+
+
+
+
+
+
+
+
+
+
 > 动态规划
 
 1. 抽象数组，下标，求解值（求和值，最大值，最小值）
